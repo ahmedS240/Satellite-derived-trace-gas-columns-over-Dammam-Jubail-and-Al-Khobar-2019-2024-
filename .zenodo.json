@@ -1,0 +1,7 @@
+{
+  "title": "Code and derived data for: Spatio-temporal dynamics of satellite-derived trace-gas columns over selected Saudi cities (2019-2024)",
+  "upload_type": "software",
+  "creators": [{"name": "Alnashwan, Ahmed Saad", "affiliation": "King Fahd University of Petroleum and Minerals"}],
+  "license": "MIT",
+  "keywords": ["Sentinel-5P", "TROPOMI", "NO2", "CO", "CH4", "Saudi Arabia", "Google Earth Engine", "K-means"]
+}

@@ -1,0 +1,7 @@
+The derived data in data/ and the documentation in docs/ are licensed under the
+Creative Commons Attribution 4.0 International licence (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+They are derived from Copernicus Sentinel-5P data (ESA), VIIRS DNB data (NOAA/EOG)
+and GHS-POP R2023A (European Commission, JRC; CC BY 4.0). Users should also
+acknowledge these original sources.

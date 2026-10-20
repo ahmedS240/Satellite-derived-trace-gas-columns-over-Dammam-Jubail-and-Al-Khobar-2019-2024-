@@ -1,0 +1,6 @@
+results/
+external_inputs/*
+!external_inputs/README.md
+__pycache__/
+.ipynb_checkpoints/
+*.pyc

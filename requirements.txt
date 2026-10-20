@@ -1,0 +1,13 @@
+# Tested with: numpy 2.5, pandas 3.0, scipy 1.18, statsmodels 0.15, pymannkendall 1.4.3, scikit-learn 1.9, matplotlib 3.11
+numpy
+pandas
+scipy
+statsmodels
+pymannkendall
+scikit-learn
+matplotlib
+pillow
+pyshp
+shapely
+pyproj
+geopandas   # only for the clustering notebook maps

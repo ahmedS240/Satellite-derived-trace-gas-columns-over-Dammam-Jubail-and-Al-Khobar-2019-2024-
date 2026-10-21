@@ -1,0 +1,4 @@
+City,Shapefile,Source,ID,Admin_level,Name,Area_km2
+Dammam,Dammam,OpenStreetMap,relation/12399708,admin_level 6,Dammam Governorate,1845.9
+Jubail,Al_Jubail,GADM 4.1,SAU.8.3_1,level 2 (Governorate),Al Jubayl,6464.0
+Khobar,AlKhobarfull,GADM 4.1,SAU.8.5_1,level 2 (Governorate),Al Khubar,196.7

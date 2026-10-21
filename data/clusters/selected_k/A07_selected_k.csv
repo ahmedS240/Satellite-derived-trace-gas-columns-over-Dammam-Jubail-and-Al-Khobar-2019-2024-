@@ -1,0 +1,4 @@
+City,selected_k,silhouette,boot_ARI_median,reason,k_by_CH_max,k_by_DB_min,k_by_gap
+Dammam,3,0.5249588926216817,0.8627577319587629,highest silhouette,8,6,
+Jubail,2,0.6643598441397589,0.8922609572468168,highest silhouette,6,4,
+Khobar,4,0.4378864792126112,0.7758554536258676,"k=3 had the highest silhouette but failed admissibility (bootstrap ARI 0.64, smallest cluster 4)",4,5,5.0

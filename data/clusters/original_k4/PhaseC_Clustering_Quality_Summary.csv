@@ -1,0 +1,4 @@
+City,Grid Cells,Features Used,k,Label Rank Col,Silhouette Score,Inertia
+Dammam,97,"NO2, CO, CH4, NTL, POP",4,NO2,0.457,138.043
+Jubail,372,"NO2, CO, CH4, NTL, POP",4,NO2,0.5448,718.135
+Khobar,28,"NO2, CO, CH4, NTL, POP",4,NO2,0.4379,27.7586

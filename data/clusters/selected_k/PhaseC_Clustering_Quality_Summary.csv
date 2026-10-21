@@ -1,0 +1,4 @@
+City,Grid Cells,Features Used,k (selected),k selection,Label Rank Col,Silhouette Score,Inertia
+Dammam,97,"NO2, CO, CH4, NTL, POP",3,highest silhouette and stable,NO2,0.525,194.7123
+Jubail,368,"NO2, CO, CH4, NTL, POP",2,highest silhouette and stable,NO2,0.6644,1241.4029
+Khobar,28,"NO2, CO, CH4, NTL, POP",4,"k=3 had the highest silhouette but was not admissible (median ARI 0.68, 5th pct 0.33, smallest cluster 4); next best admissible k used",NO2,0.4379,27.7586

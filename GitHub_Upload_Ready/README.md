@@ -1,6 +1,6 @@
 # Satellite-derived trace-gas columns over Dammam, Jubail and Al-Khobar (2019–2024)
 
-**Author:** Ahmed Saad Alnashwan (202504410) — MSc Environmental Science & Engineering
+**Author:** Ahmed Saad Alnashwan — MSc Environmental Science & Engineering
 **Institution:** King Fahd University of Petroleum and Minerals (KFUPM)
 **Supervisor:** Dr. Syed Masiur Rahman
 **Period:** 2019–2024, extrapolated to 2030

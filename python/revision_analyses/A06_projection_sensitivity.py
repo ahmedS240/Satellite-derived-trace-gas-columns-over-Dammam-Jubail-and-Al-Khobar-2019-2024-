@@ -1,11 +1,11 @@
 """
-A06 - 2030 extrapolation uncertainty and sensitivity (responds to postdoc comment on Section 4.2 / Table 2 / Table S2)
+A06 - 2030 extrapolation uncertainty and sensitivity (Section 4.2 / Table 2 / Table S2)
 
 For each city and variable (NO2, CO, CH4, NTL), annual means are formed from the available months and:
   1. OLS fitted to 2019-2024 -> 2030 value with 95% prediction interval (statsmodels, t with n-2 df);
   2. Theil-Sen line (median slope, median intercept) -> 2030 value;
   3. OLS fitted to 2020-2024 and 2021-2024 (excluding the 2019-2020 pre-/lockdown years) -> 2030 value.
-Percentage changes are relative to the observed 2024 annual mean (as in the manuscript).
+Percentage changes are relative to the observed 2024 annual mean.
 Al-Khobar CH4 is reported but flagged: 2019 has 1 valid month and 2020 none.
 
 Outputs: A06_projection_sensitivity.csv, A06_projection_PI_plots.png

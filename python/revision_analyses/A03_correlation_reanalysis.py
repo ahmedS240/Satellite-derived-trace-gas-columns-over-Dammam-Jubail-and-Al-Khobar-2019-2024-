@@ -1,5 +1,5 @@
 """
-A03 - Gas-NTL correlation re-analysis (responds to postdoc comments on Section 3.4 / Table S1)
+A03 - Gas-NTL correlation re-analysis (Section 3.4 / Table S1)
 
 The original Table S1 was computed from the 72 MONTHLY city means (not 6 annual values).
 This script:

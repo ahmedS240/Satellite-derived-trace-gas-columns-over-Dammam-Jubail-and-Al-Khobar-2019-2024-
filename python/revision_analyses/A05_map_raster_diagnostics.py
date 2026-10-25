@@ -1,6 +1,6 @@
 """
 A05 - Diagnostics of the annual composite rasters used for Fig. 2
-(responds to postdoc comments on Fig. 2: CH4 legend saturation and valid-retrieval coverage)
+(Fig. 2: CH4 legend saturation and valid-retrieval coverage)
 
 Reads ../../Data/tiff result/Temporal Analysis/<GAS>_<City>_<YEAR>.tif (exported from GEE, EPSG:4326, 0.018 deg)
 and reports, for each raster: band name, pixel size, number of pixels, number of valid (non-NaN) pixels,

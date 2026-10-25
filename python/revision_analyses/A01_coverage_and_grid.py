@@ -1,6 +1,6 @@
 """
 A01 - Data coverage diagnostics and analytical-grid geometry
-(responds to postdoc comments on Sections 2.1, 2.3 and Fig. 2: GADM level, coverage, 5 km grid in EPSG:4326)
+(Sections 2.1, 2.3 and Fig. 2: GADM level, coverage, 5 km grid in EPSG:4326)
 
 Outputs (../02_outputs):
     A01_valid_months_by_year.csv   number of valid monthly city means per city, gas and year

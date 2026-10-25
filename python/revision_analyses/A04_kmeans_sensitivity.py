@@ -1,5 +1,5 @@
 """
-A04 - K-means validation and sensitivity (responds to postdoc comment on Section 2.6 / Table 3)
+A04 - K-means validation and sensitivity (Section 2.6 / Table 3)
 
 Reproduces the original clustering exactly (features NO2, CO, CH4, NTL, POP; rows with NaN dropped;
 StandardScaler; KMeans k=4, n_init=10, random_state=42), then:

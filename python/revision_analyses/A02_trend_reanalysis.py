@@ -1,5 +1,5 @@
 """
-A02 - Trend re-analysis (responds to postdoc comment on Section 2.5 and Table 2)
+A02 - Trend re-analysis (Section 2.5 and Table 2)
 
 1. Reproduces the original annual analysis (annual mean of available months ->
    pymannkendall.original_test, OLS, 2030 value) to check Table 2.
